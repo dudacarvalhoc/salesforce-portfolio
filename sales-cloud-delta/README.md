@@ -72,6 +72,3 @@ Processo comercial 100% implantado e testado no Salesforce — padronizado, auto
 
 **Maria Eduarda Cortellini**
 Consultora Salesforce (Business Analyst) | Estudante de Ciência da Computação
-
-- LinkedIn: [seu-linkedin]
-- GitHub: [seu-usuario]
